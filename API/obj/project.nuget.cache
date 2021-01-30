@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/FOJtTJe0KzFlwPLlVeZbAXzjMWcP3P+kiv5y/0q/jFu105lZVQ8tibt0ehBrQqytyDrmlcd7WssWYd1SeY5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rojce\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rojce\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\rojce\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\rojce\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\rojce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\rojce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
