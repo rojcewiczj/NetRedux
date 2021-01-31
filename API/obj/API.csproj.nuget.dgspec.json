@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\API\\API.csproj": {}
+    "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\API\\API.csproj": {
+    "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\API\\API.csproj",
+        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\API\\API.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\API\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Application\\Application.csproj"
+              "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Application\\Application.csproj"
               }
             }
           }
@@ -44,6 +44,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
@@ -71,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Application\\Application.csproj": {
+    "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Application\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,11 +101,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj"
+              "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj"
+              "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -132,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj": {
+    "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +216,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetRedux\\Domain\\Domain.csproj"
+              "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetRedux\\Domain\\Domain.csproj"
               }
             }
           }
